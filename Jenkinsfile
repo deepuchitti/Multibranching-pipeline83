@@ -16,7 +16,7 @@ pipeline {
 
         stage("sprint2") { 
              steps { 
-                sh 'echo "this is sprint2..."'
+                sh 'echo "this is sprint2 branch..."'
             }
         }  
     }
